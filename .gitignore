@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+C:/leaf_data/
+C:/k/
+*.zip
+*.archive
+tomato_leaf_model.pth
+# We include the sklearn model as it's small enough and needed for the demonstration
+# tomato_leaf_sklearn_model.joblib
